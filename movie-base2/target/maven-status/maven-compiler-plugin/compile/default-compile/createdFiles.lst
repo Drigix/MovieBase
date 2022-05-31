@@ -1,0 +1,7 @@
+com\example\moviebase\MovieBaseApplication.class
+com\example\moviebase\Movie.class
+item\ApiRequestException.class
+com\example\moviebase\MovieController.class
+item\ApiExceptionHandler.class
+com\example\moviebase\MovieRepository.class
+item\ApiException.class
