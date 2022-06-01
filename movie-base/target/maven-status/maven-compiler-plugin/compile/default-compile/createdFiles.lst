@@ -1,0 +1,13 @@
+item\MovieBaseApplication.class
+item\support\ApiRequestException.class
+item\domain\Movie.class
+item\api\MovieController.class
+item\support\MovieExceptionSupplier.class
+item\api\response\MovieResponse.class
+item\service\MovieService.class
+item\api\request\MovieRequest.class
+item\support\ApiExceptionHandler.class
+item\support\MovieMapper.class
+item\repository\MovieRepository.class
+item\support\exception\ItemNotFoundException.class
+item\support\ApiException.class
